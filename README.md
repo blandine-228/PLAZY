@@ -22,7 +22,8 @@ Une application mobile permettant aux étudiants :
 
 ##  Personas cibles
 - Étudiants à budget limité
-- Partenaires culturels (cinémas, théâtres, salles de concert)
+[Persona](Product/Persona.md)
+
 
 ---
 
