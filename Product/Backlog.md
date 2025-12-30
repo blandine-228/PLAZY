@@ -18,6 +18,8 @@
 - Consulter l’historique des billets
 
 Le backlog détaillé est visible via les captures Jira.
+
+
 ![Backlog jira](https://github.com/blandine-228/PLAZY/blob/main/Assets/backlogProduit.png)
 
 
