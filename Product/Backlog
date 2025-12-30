@@ -1,0 +1,21 @@
+# Backlog Produit 
+
+## EPIC 1 – Découverte des événements
+- Consulter la liste des événements
+- Voir le détail d’un événement
+- Découvrir les événements via la carte
+- Réserver depuis la carte
+
+## EPIC 2 – Réservation et paiement
+- Accéder au paiement
+- Saisir les informations bancaires
+- Confirmer le paiement
+- Voir un message de succès
+
+## EPIC 3 – Compte utilisateur et billets
+- Créer un compte
+- Consulter les billets à venir
+- Consulter l’historique des billets
+
+Le backlog détaillé est visible via les captures Jira.
+![Backlog jira](https://myoctocat.com/assets/images/base-octocat.svg)
