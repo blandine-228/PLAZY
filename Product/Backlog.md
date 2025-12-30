@@ -23,7 +23,7 @@
 - Voir un message de succès
 
 
-Le backlog détaillé est visible via les captures Jira.
+Le backlog détaillé est visible via Jira.
 
 
 ![Backlog jira](https://github.com/blandine-228/PLAZY/blob/main/Assets/backlogProduit.png)
